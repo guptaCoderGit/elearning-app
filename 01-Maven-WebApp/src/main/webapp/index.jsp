@@ -16,7 +16,12 @@ function confirm(){
 var b=20;
 }
 
-
+//bug fix 151 changes
+function delete(){
+ var a=10;
+var e=20;
+//logic
+}
 </script>
 
 </head>
