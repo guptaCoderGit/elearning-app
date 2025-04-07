@@ -4,6 +4,11 @@
 
 <script>
 
+// bug 131
+	function change()
+	{
+		//some logic
+	}
 
 
 
